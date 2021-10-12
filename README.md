@@ -28,7 +28,7 @@ Go to the Arduino IDE Preferences, and under "Additional Boards Manager URLs" fi
 
 You can find a short article explaining how to do it here https://support.arduino.cc/hc/en-us/articles/360016119519-How-to-add-boards-in-the-board-manager
 
-### Download and install the ME310 Library
+### Download and install the required Libraries
 
 Download the [arduino-me310-library](https://github.com/telit/arduino-me310-library) and [arduino-tlt-library](https://github.com/telit/arduino-tlt-library), then extract them in your Arduino libraries folder, or install the new libraries from the ZIP files.
 
